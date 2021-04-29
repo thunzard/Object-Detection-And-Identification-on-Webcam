@@ -5,4 +5,4 @@ This is a Google Code Collab project, on implementing scaled YOLOv4 (Based on Da
 
 
 # How to execute the project by yourself
-In the github reposatory download the code file. Then open it in google collab where it will run using your GPU power. It is the fatese way to do execute the work. In order to execute the projet on your CPU please inform in the issues section, I'll upload the CPU workthrough in this reposatory itself. Thank you.
+In the github reposatory download the jupyter notebook file. Then upload it in your google drive, and then open the file in google collab where it will run using your GPU power. It is the fatese way to do execute the work. In order to execute the projet on your CPU please inform in the issues section, I'll upload the CPU workthrough in this reposatory itself. Thank you.
